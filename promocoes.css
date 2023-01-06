@@ -1,0 +1,96 @@
+.banner {
+    width: 100%;
+    height: 200px;
+}
+
+main {
+    background: linear-gradient(#696969, #A9A9A9, #DCDCDC);
+}
+
+.titulo {
+    text-align: center;
+	font-size: 2em;
+    font-weight: bold;
+	margin: 0 0 1em;
+	clear: left;
+    padding: 20px;
+}
+
+nav {
+    background: #000000;
+    
+}
+
+nav a {
+    position:relative;
+    color: #DCDCDC;
+    font-size: 22px;
+    text-decoration: none;
+    position:relative;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.mussarela {
+	width: 100%;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.mussarela li{
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.mussarela li:hover{
+	border-color:#8B0000;
+}
+
+.mussarela li:active{
+	border-color: #088C19;
+}
+
+.mussarela li:hover h2{
+	font-size: 34px;
+
+}
+
+.mussarela h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.promocao-descricao {
+	font-size: 18px;	
+    font-weight: bold;
+}
+
+.promocao-preco{
+	font-size: 30px;
+	font-weight: bold;
+	margin: 10px;
+}
+
+footer {
+    background: #000000;
+    color: #DCDCDC;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.copyright {
+    color: #DCDCDC;
+	font-size: 13px;
+	margin: 20px 0 0;
+    font-weight: bold;
+}
