@@ -1,4 +1,4 @@
-# Pizzaria
+<h1 align="center">Pizzaria</h1>
 
 Primeiro site criado utilizando as linguagens HTML e CSS, site de pizzaria onde inicialmente vemos uma breve introdução sobre a pizzaria e sua localidade, onde temos um menu que você pode navegar pelas páginas de cárdapio e verificar as promoções do dia.
 
