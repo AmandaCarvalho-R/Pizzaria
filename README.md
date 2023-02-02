@@ -12,33 +12,54 @@ Por ser o meu primeiro projeto o objetivo do mesmo era saber até onde eu conseg
 Onde tive a idéia de criar o site de uma pizzaria, falando um pouco sobre a pizzaria, inserindo a localização da mesma utilizando o maps,realizar o direcionamento para outras páginas navegando entre a página de cardápio e promoções.
 Com este projeto pude aprender sobre a utilização das class, inserção de imagens,trabalhar com listas, trabalhar com divs e seções,inserção de background,utilizar efeitos ao passar o mouse encima de textos e imagens,inserção de margens,alterações de display entre várias outras funcionalidades do CSS.
 
+
 <h2 align="center"> 
     Demonstração da aplicação
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/121901080/216235366-00ddedb0-6409-401e-850a-07179f537e0e.gif)
+
+![image](https://user-images.githubusercontent.com/121901080/216239507-3fb0a972-b9c5-4951-98ee-796fcf947c89.png)
+![image](https://user-images.githubusercontent.com/121901080/216239543-ebc4a723-88af-41dc-b428-8cfabb5dbdff.png)
+![image](https://user-images.githubusercontent.com/121901080/216239573-44f63309-f783-433d-a9d3-fb73430f82f0.png)
+![image](https://user-images.githubusercontent.com/121901080/216239690-779b406a-2f26-460a-9ba9-97f861d17cb0.png)
+![image](https://user-images.githubusercontent.com/121901080/216239733-dbed9c82-1e28-4c71-b80e-ff2294638cc2.png)
+![image](https://user-images.githubusercontent.com/121901080/216239772-60753244-e481-4885-89d0-c271a52aaf6d.png)
+![image](https://user-images.githubusercontent.com/121901080/216239831-a095b965-0523-4817-a7fd-fd2e9e7883fd.png)
+![image](https://user-images.githubusercontent.com/121901080/216239875-baa9d4a5-e16c-4e59-b056-c9c00a15c830.png)
+![image](https://user-images.githubusercontent.com/121901080/216239922-fd92f3c9-5687-481e-9dd8-ac528e2f7f1c.png)
+
+
+
+</h2>
+
+
+<h2 align="center"> 
+   📁 Acesso ao Projeto
+    
+    https://nandapizzaria.netlify.app 
+</h2>
+ 
+ 
+<h2 align="center"> 
+    ✔️ Linguagens utilizadas
 </h2>
 
 <p align="center">
-![pizzaria_AdobeExpress](https://user-images.githubusercontent.com/121901080/216234284-88f226a2-a670-4cce-afd5-957dc0c318f6.gif)
+<img src="https://img.shields.io/badge/-HTML-critical"/> <img src="https://img.shields.io/badge/-CSS-informational"/>
 </p>
 
+<h2 align="center"> 
+
+![image](https://user-images.githubusercontent.com/121901080/216240259-cde3de16-257e-4a33-a83e-b0e20199f706.png)
+Desenvolvedora
+![image](https://user-images.githubusercontent.com/121901080/216240329-00619566-e448-4b91-bea4-f07035dfb985.png)
 
 
-Primeiro site criado utilizando as linguagens HTML e CSS, site de pizzaria onde inicialmente vemos uma breve introdução sobre a pizzaria e sua localidade, onde temos um menu que você pode navegar pelas páginas de cárdapio e verificar as promoções do dia.
 
-Segue site caso queira verificar o site criado da pizzaria e logo abaixo imagens de como ficou o projeto:
-Site para acesso ao projeto: https://nandapizzaria.netlify.app
+![image](https://user-images.githubusercontent.com/121901080/216240914-9c0751b9-409a-46d2-90e3-6b30443ce72b.png)
 
-Imagens do projeto:
-                          SOBRE A PIZZARIA
-![image](https://user-images.githubusercontent.com/121901080/213079587-526539a8-a340-474a-bc49-2f57ae536809.png)
-![image](https://user-images.githubusercontent.com/121901080/213079667-b1ea88dc-d767-49ef-ac2a-ae597e260fc8.png)
-
-                              CARDÁPIO
-![image](https://user-images.githubusercontent.com/121901080/213079724-349fe807-92ca-4cc6-b08a-b70f59c93ae5.png)
-![image](https://user-images.githubusercontent.com/121901080/213079746-b54389f0-1266-4002-be69-e2d49e1129bb.png)
-
-                            PROMOÇÃO DO DIA
-![image](https://user-images.githubusercontent.com/121901080/213079833-a350ee2d-f337-4e53-a2fa-737315141564.png)
-![image](https://user-images.githubusercontent.com/121901080/213079890-ad1e4608-20b5-4897-bcf8-3654692adedb.png)
-                            
-
+</h2>
+<h2 align="center"> 
+Amanda Carvalho
+</h2>
 
