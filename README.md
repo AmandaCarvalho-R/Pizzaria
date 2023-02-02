@@ -8,9 +8,7 @@
     Objetivo do projeto
 </h2>
 
-Por ser o meu primeiro projeto o objetivo do mesmo era saber até onde eu conseguiria ir com o conteúdo que eu ja havia estudado até o momento, saber o que eu conseguiria fazer explorando a linguagem do HTML e CSS.
-Onde tive a idéia de criar o site de uma pizzaria, falando um pouco sobre a pizzaria, inserindo a localização da mesma utilizando o maps,realizar o direcionamento para outras páginas navegando entre a página de cardápio e promoções.
-Com este projeto pude aprender sobre a utilização das class, inserção de imagens,trabalhar com listas, trabalhar com divs e seções,inserção de background,utilizar efeitos ao passar o mouse encima de textos e imagens,inserção de margens,alterações de display entre várias outras funcionalidades do CSS.
+Por ser o meu primeiro projeto o objetivo do mesmo era saber até onde eu conseguiria ir com o conteúdo que eu já havia estudado até o momento, saber o que eu conseguiria fazer explorando a linguagem do HTML e CSS. Onde tive a ideia de criar o site de uma pizzaria, falando um pouco sobre a pizzaria, inserindo a localização da mesma utilizando o maps,realizar o direcionamento para outras páginas navegando entre a página de cardápio e promoções. Com este projeto pude aprender sobre a utilização das class, inserção de imagens, trabalhar com listas, trabalhar com divs e seções, inserção de background, utilizar efeitos ao passar o mouse encima de textos e imagens, inserção de margens, alterações de display entre várias outras funcionalidades do CSS.
 
 
 <h2 align="center"> 
