@@ -33,9 +33,9 @@ Por ser o meu primeiro projeto o objetivo do mesmo era saber até onde eu conseg
 
 
 <h2 align="center"> 
-   📁 Acesso ao Projeto
+   📁 Acesso ao Projeto <br><br>
     
-    https://nandapizzaria.netlify.app 
+https://nandapizzaria.netlify.app 
 </h2>
  
  
