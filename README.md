@@ -12,7 +12,8 @@ Por ser o meu primeiro projeto o objetivo do mesmo era saber até onde eu conseg
 
 
 <h2 align="center"> 
-    Demonstração da aplicação
+    
+📸 Demonstração da aplicação
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/121901080/216235366-00ddedb0-6409-401e-850a-07179f537e0e.gif)
 
